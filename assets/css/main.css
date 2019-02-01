@@ -15,7 +15,7 @@ body {
 }
 
 a {
-  color: #C97A8F;
+  color: #7F2559;
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
@@ -59,7 +59,7 @@ section {
   color: #fff;
 }
 .btn-common:hover {
-  background: #C97A8F;
+  background: #7F2559;
   color: #fff;
 }
 
@@ -82,7 +82,7 @@ section {
   font-weight: 100;
   padding-bottom: 15px;
   position: relative;
-  color: #C97A8F;
+  color: #7F2559;
   font-size: 2.2rem;
   margin-top: 0;
   font-style: italic;
@@ -168,7 +168,7 @@ section {
 }
 .navbar-default .navbar-nav > .active,
 .navbar-default .navbar-nav li:hover {
-  background: #C97A8F;
+  background: #7F2559;
   padding-bottom: 5px;
   color: #fff;
 }
@@ -195,7 +195,7 @@ section {
 }
 
 .navbar-toggle {
-  background-color: #C97A8F;
+  background-color: #7F2559;
 }
 
 @media (min-width: 768px) {
@@ -347,7 +347,7 @@ section {
 #servicos .tipos-eventos {
   margin-top: 0;
   font-size: 20px;
-/*   color: #C97A8F; */
+/*   color: #7F2559; */
 }
 
 #servicos .service-item {
@@ -411,7 +411,7 @@ section {
   animation-fill-mode: both;
 }
 .portfolio-item .icons .preview i {
-  color: #C97A8F;
+  color: #7F2559;
 }
 
 /* ----------------
